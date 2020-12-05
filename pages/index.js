@@ -338,11 +338,11 @@ export default function Landing() {
                 <div className="px-6">
                   <img
                     alt="..."
-                    src={require("assets/img/team-3-800x800.jpg")}
+                    src={require("http://sumberbarokah.info/heri/heri.jpg")}
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Alexa Smith</h5>
+                    <h5 className="text-xl font-bold">Herianto Saputra</h5>
                     <p className="mt-1 text-sm text-gray-500 uppercase font-semibold">
                       UI/UX Designer
                     </p>
